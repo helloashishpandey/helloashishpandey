@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, Ashish Pandey</h1>
+<h2>नमस्ते (Namaste)🙏🏻, I'm Ashish Pandey! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 </div>
 <div align="center">
   <a href="https://helloashishpandey.github.io/1999AZZAR/">
