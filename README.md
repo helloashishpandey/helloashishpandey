@@ -41,23 +41,24 @@
 <details>
   <summary>🧮 about</summary>
 <div>
-<h2 align="center">🧮 About this Account</h2>
- <p align="center">
-  <a href="github.com/helloashishpandey" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/visits/1999AZZAR/1999AZZAR?style=for-the-badge&color=e74c3c&logo=github&label=Spying+Counter"
-     alt="spying counter" /></a>
-  <a href="github.com/helloashishpandey" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/years/1999AZZAR/?style=for-the-badge&color=27a4fb&logo=github&label=Account+Age"
-     alt="account age" /></a>
-  </p>
-  <p align="center">
-  <a href="github.com/helloashishpandey" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/updated/1999AZZAR/1999AZZAR?style=for-the-badge&color=ff00b4&logo=github&label=Profile+Updated"
-     alt="updated" /></a>
-  <a href="github.com/helloashishpandey" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/repos/1999AZZAR/?style=for-the-badge&color=251ee7&logo=github&label=Public+Repos"
-     alt="repos" /></a>
- </p>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Python", "C", "C++", "Java", "php"],
+    askMeAbout: ["Data", "Analysis", "ML", "Visualization"],
+    technologies: {
+        Python Package: ["Numpy","Pandas","Matplotlib","Seaborn","beautiful soup"],
+        frontEnd: ["HTML","CSS","JS",JINJA"],
+        backEnd: ["flask"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["API", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp","JSON"]
+    },
+    OpenToWork: ["Data Scientist", "Data Analyst", "Data Engineer","Python Developer"],
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
 </div>
 </details>
 <details> 
