@@ -44,12 +44,12 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
+const ashish = {
     pronouns: "He" | "Him",
     code: ["Python", "C", "C++", "Java", "php"],
     askMeAbout: ["Data", "Analysis", "ML", "Visualization"],
     technologies: {
-        Python Package: ["Numpy","Pandas","Matplotlib","Seaborn","beautiful soup"],
+        PythonPackage: ["Numpy","Pandas","Matplotlib","Seaborn","beautiful soup"],
         frontEnd: ["HTML","CSS","JS",JINJA"],
         backEnd: ["flask"],
         databases: ["mongo", "MySql", "sqlite"],
