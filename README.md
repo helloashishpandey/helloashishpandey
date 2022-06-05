@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="100%">
+  <br><br>
+</p>
 <div align="center">
 <h2>नमस्ते (Namaste)🙏🏻, I'm Ashish Pandey! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 </div>
